@@ -57,7 +57,7 @@ No field is presented as confirmed unless a primary source exists.
 Static HTML hosted via **GitHub Pages**. No build step required — push the
 repository and enable Pages on the default branch.
 
-```
+```text
 /
 ├── index.html
 ├── ancient/
